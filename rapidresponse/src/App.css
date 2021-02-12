@@ -1,0 +1,46 @@
+.btn-primary{
+  background-color: #197BBD;
+  border-color: #197BBD;
+  color: #fff;
+}
+
+.btn-secondary{
+  background-color: #2A7F62;
+  border-color: #2A7F62;
+  color: #fff;
+}
+
+.btn-warning {
+  color: #fff;
+  background-color: #C14953;
+  border-color: #C14953;
+}
+
+.bg-dark-brown {
+  color: #fff;
+  background-color: #322F2B;
+}
+
+.bg-ligt-brown {
+  color: #fff;
+  background-color: #C4BBAF;
+}
+
+.bg-green{
+  background-color: #2A7F62;
+  color: #fff;
+}
+
+.bg-red{
+  background-color: #C14953;
+  color: #fff;
+}
+.bg-blue{
+  background-color: #197BBD;
+  color: #fff;
+}
+
+.sb-sidenav-dark{
+  color: #fff;
+  background-color: #322F2B;
+}

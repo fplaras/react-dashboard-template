@@ -1,0 +1,1 @@
+folder for common components that are used throughout (buttons, headers, footers — components that are generic and very reusable). 
