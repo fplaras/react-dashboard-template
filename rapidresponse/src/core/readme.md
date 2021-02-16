@@ -1,1 +1,1 @@
-folder for core components that are required. 
+folder for core components that are required for navigation

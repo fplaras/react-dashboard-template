@@ -1,6 +1,6 @@
 import './App.css';
-import TopNav from './core/topnav';
-import SideNav from './core/sidenav';
+import TopNav from './core/components/topnav';
+import SideNav from './core/components/sidenav';
 import {
   BrowserRouter as Router,
 
