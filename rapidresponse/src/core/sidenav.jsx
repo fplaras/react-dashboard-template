@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react'
-import Dashboard from '../dashboard/pages/dashboard'
-import MyJobs from '../jobs/pages/myjobs';
+import Dashboard from '../pages/dashboard/containers/dashboard'
+import MyJobs from '../pages/jobs/containers/myjobs';
 
 import {
     Switch,
