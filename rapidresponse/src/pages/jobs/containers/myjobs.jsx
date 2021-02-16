@@ -13,7 +13,12 @@ class MyJobs extends React.Component {
   render() {
     return (
       <Fragment> 
-        <h2 className='mx-auto mt-4'>My Jobs</h2>
+        <div className="row">
+          <div className="col-sm-12 text-center">
+            <h2 className='mt-4'>All Jobs</h2>
+          </div>  
+        </div>
+        
         <JobList userId={this.state.userId} ></JobList>
       </Fragment>
     );
